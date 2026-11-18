@@ -6,7 +6,7 @@
 
 We break things with permission, then build what doesn't.
 
-[flint.ps](https://flint.ps) · Gaza, Palestine 🇵🇸
+[flint.ps](https://flint.ps) · Gaza, Palestine
 
 </div>
 
